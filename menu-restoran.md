@@ -2,3 +2,4 @@
 - Ayam Penyet
 - Ayam Bakar
 - Satee
+- Seblak
